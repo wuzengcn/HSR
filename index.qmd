@@ -53,7 +53,7 @@ library(readxl)
 - It remains a [new]{.red} area in global health 
 - It dates back to [World Health Report 2000]{.red}, which defines health system as “all the activities whose primary purpose is to promote, restore or maintain health” (WHO, 2000)
 - It is a [multidisciplinary]{.red} field that draws on [economics]{.red}, [sociology]{.red}, [political science]{.red}, and [public health]{.red} to understand how health systems function and how they can be improved
-- However, there is [no]]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
+- However, there is [no]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
 :::
 :::{.column width="50%"}
 ![](pic/WHO-2000.png){.center width="100%"}
@@ -178,7 +178,7 @@ library(readxl)
 
     - Population: 41.5 million
 
-    - GDP per capita: $413
+    - GDP per capita: [$413]{.red}
 
     - Life expectancy: 66 years
 
@@ -223,8 +223,8 @@ library(readxl)
 
 - Tracking health expenditure
     - National health accounts (NHA)
-    - Public Expenditure Traciing Survey
-    - Expenditure managment Information systems 
+    - Public Expenditure Tracing Survey
+    - Expenditure management Information systems 
 
 - Costing and efficiency analysis 
 
