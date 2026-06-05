@@ -44,6 +44,8 @@ library(readxl)
 
 - Experiences in Afghanistan Health System Research ?
 
+- key takeaway
+
 ---
 
 ## What is health system research 
@@ -51,9 +53,9 @@ library(readxl)
 :::: columns
 :::{.column width="50%"}
 - It remains a [new]{.red} area in global health 
-- It dates back to [World Health Report 2000]{.red}, which defines health system as “all the activities whose primary purpose is to promote, restore or maintain health” (WHO, 2000)
+- It dates back to [World Health Report 2000]{.red}, which defines health system as “all the activities whose primary purpose is to [promote]{.red}, [restore]{.red} or [maintain]{.red} health” (WHO, 2000)
 - It is a [multidisciplinary]{.red} field that draws on [economics]{.red}, [sociology]{.red}, [political science]{.red}, and [public health]{.red} to understand how health systems function and how they can be improved
-- However, there is [no]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
+- However, there is [NO]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
 :::
 :::{.column width="50%"}
 ![](pic/WHO-2000.png){.center width="100%"}
@@ -104,7 +106,7 @@ library(readxl)
 
 ---
 
-## Some key research questions in health system research
+## Some key research questions in health system research (examples)
 
 - How can we design and implement effective health financing mechanisms to improve access to care and reduce financial barriers to care?
 
@@ -172,7 +174,7 @@ library(readxl)
 
 ---
 
-## General information and achievement in Afghansitan
+## General information and achievement in Afghansitan (2002-2023)
 
 - General information about Afghanistan (2023)
 
@@ -180,15 +182,15 @@ library(readxl)
 
     - GDP per capita: [$413]{.red}
 
-    - Life expectancy: 66 years
+    - Life expectancy: [66 years]{.red}
 
     - Economy has been stagnant before Taliban took over the country in 2021, droped during COVID-19 pandemic
 
 - Achievements 
 
-    - Life expectancy: 56 (2002) to 66 years (2023)
-    - Infant mortality rate: from 104 (2002) to 50 (2023) per 1000 live births
-    - Maternal mortality ratio: from 1263 (2002) to 521 (2023) per 100,000 live births
+    - Life expectancy: [56]{.red} (2002) to [66]{.red} years (2023)
+    - Infant mortality rate: from [104]{.red} (2002) to [50]{.red} (2023) per 1000 live births
+    - Maternal mortality ratio: from [1,263]{.red} (2002) to [521]{.red} (2023) per 100,000 live births
 
 ---
 
@@ -199,41 +201,47 @@ library(readxl)
 
 - Not sustainable, and not equitable (NHA 2021)
 
-  - Low level of government spending (3.3%)
+  - [Low]{.red} level of government spending (3.3%)
 
-  - Donor funding anticipated to decline (19.5%)
+  - [Donor funding]{.red} anticipated to decline (19.5%)
 
-  - Substantial share of out of pocket (OOP) spending (77.2%)
+  - [Substantial share]{.red} of out of pocket (OOP) spending (77.2%)
 
-  - Low executiion of existing government budget for health 
+  - [Low execution]{.red} of existing government budget for health 
 
 :::
 
 :::{.column width="50%"}
-![](pic/p11.JPG){.center width="80%"}
+
+<img style = "border-radius:5%;border: 1px solid black" src="/pic/p11.jpg" class= "center">
+
 :::
 ::::
+
 
 ---
 
 ## Generate evidence for advocacy and informing policy reform in the country
 
 :::: columns
-:::{.column width="50%"}
+:::{.column width="60%"}
 
-- Tracking health expenditure
+- [Tracking]{.red} health expenditure
     - National health accounts (NHA)
+        - Donor survey; Household survey
+        - Health facility survey
+        - Imputation
     - Public Expenditure Tracing Survey
     - Expenditure management Information systems 
 
-- Costing and efficiency analysis 
+- [Costing and efficiency]{.red} analysis 
 
     - Costing of Essential Package of Health Services (EPHS) and Basic Package of Hospital Services (BPHS)
     - Costing of the Naitonal Health Strategy 2026-2020
     - Efficiency analysis of district hositals and health facilities 
 
 :::
-:::{.column width="50%"}
+:::{.column width="40%"}
 ![](pic/NHA.png){.center width="80%"}
 :::
 ::::
@@ -258,17 +266,17 @@ library(readxl)
 
 --- 
 
-## Health financing strategy in action
+## Health financing strategy in action (revenue generation and payment)
 
 :::: columns
 :::{.column width="50%"}
-- Amended the health law in 2016
+- Amended the [health law]{.red} in 2016
   - A turning point in public health history in Afghanistan
   - Paved the way for introducing broader health financing reforms
-- Tobacco tax increased 
-- Developed and passed the user fee regulation
-- BPHS/EPHS to transition from contract management to performance
-management
+- [Tobacco tax]{.red} increased 
+- Developed and passed the [user fee]{.red} regulation
+- BPHS/EPHS to transition from contract management to [performance
+management]{.red}
 :::
 :::{.column width="50%"}
 ![](pic/Tobacco-v2.jpg){.center width="100%"}
@@ -277,16 +285,89 @@ management
 
 ---
 
-## Health insurance accomplishments 
+## Health insurance exploration in Afghanistan
 
-- Conducted First phase of health insurance feasiblity study (2014-2015)
-- Conducted second phase of health insurance feasibility study (2018-2020)
-    - Willingness and ability to pay for health insurance
-    - Benefit package design for health insurance
-    - Actuary analysis for health insurance
-- Developed the health insurance policy (2016)
-- Drafted the health insruance law (2019)
-- Developed a health insurance policy for civil servants (2017)
+- Afghanistan [does not]{.red} have a insurance scheme 
+
+- The Government wanted to conduct a [feasibility]{.red} studies of establish health insurance schemes 
+
+- But 
+
+<center> 
+
+### How?
+
+</center>
+
+---
+
+## If you are tasked to conduct a health insurance feasibility study, how would you propose to do it?
+
+:::: columns
+:::{.column width="50%}
+
+- [Political]{.red} perspective
+- [Operational]{.red} perspective
+
+<img src="/pic/framework.png" width = "350">
+
+:::
+:::{.column width="50%}
+
+- [Technical]{.red} perspective
+  - Premium (what should be consider?)
+  - Benefit package design (what should be consider?)
+  - Service delivery and contracting (what should be consider?)
+
+:::
+::::
+
+---
+
+## Implementation of health insurance feasibility study in Afghanistan
+
+:::: columns
+:::{.column width="50%}
+
+- First phase (2014-2015)
+    - Stakeholder analysis (Qualitative)
+    - Legal assessment
+- Second Phase (2018-2020)
+    - [Willingness and ability]{.red} to pay for health insurance
+    - [Benefit package design]{.red} for health insurance
+    - [Actuary analysis]{.red} for health insurance
+:::
+:::{.column width="50%}
+
+<img src= "/pic/hifs1.png">
+
+<img src= "/pic/hifs2.png">
+
+:::
+::::
+
+---
+
+## Actuarial analysis framework 
+
+<center>
+
+<img src="/pic/AA.png" width = "800">
+
+</center>
+
+---
+
+## Cost recovery rates from the actuarial analysis
+
+```{r echo=F}
+readxl::read_excel("HF-findings.xlsx", sheet = "Sheet1", range = "A11:H18") %>%
+kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
+  kable_classic(full_width = T) %>%
+   row_spec(0, bold = T, color = "darkred") %>%
+    column_spec(1, width = "4cm") %>%
+    kable_styling(font_size = 14)
+```
 
 ---
 
@@ -321,12 +402,14 @@ management
 :::{.column width="50%"}
 - More domestric resources mobilization from LMICs 
 - Bilateral support reset
+    - US signed $20.2 billion bilateral agreement with 27 countries as of March 2026
+    - US shifted from “aid to trade” to partnerships grounded in mutual economic and security interests
 - Tiered contributions
 - Mixed development and humanitarian donors 
 - Implementation science remain critical to translate research findings into practice
 :::
 :::{.column width="50%"}
-![](pic/Future.png){.center width="80%"}
+![](pic/Future.png){.center width="100%"}
 :::
 ::::
 
@@ -338,3 +421,21 @@ management
 - Health system research is a multidisciplinary field that draws on a variety of disciplines to understand how health systems function and how they can be improved
 - Health system research is witnessing great changes in the context of global health
 - China has a lot to offer in terms of health system research, and there are many opportunities for collaboration between China and other countries in this field
+
+---
+
+## Thank you ! 
+
+<br>
+
+<br> 
+
+<center>
+
+Contact information: 
+
+Wu Zeng
+
+Email: wz192@georgetown.edu
+
+</center>
