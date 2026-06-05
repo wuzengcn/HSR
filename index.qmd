@@ -58,7 +58,10 @@ library(readxl)
 - However, there is [NO]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
 :::
 :::{.column width="50%"}
-![](pic/WHO-2000.png){.center width="100%"}
+
+
+
+![](pic/WHO-2000.png){.center width="120%"}
 :::
 ::::
 
@@ -242,7 +245,9 @@ library(readxl)
 
 :::
 :::{.column width="40%"}
-![](pic/NHA.png){.center width="80%"}
+
+<img style = "border-radius:5%;border: 1px solid black" src="pic/NHA.png" class= "center">
+
 :::
 ::::
 
@@ -260,7 +265,9 @@ library(readxl)
 
 :::
 :::{.column width="50%"}
-![](pic/HF-strategy.png){.center width="70%"}
+
+<img style = "border-radius:5%;border: 1px solid black" src="pic/HF-strategy.png" width = "90%" class= "center">
+
 :::
 ::::
 
@@ -279,7 +286,9 @@ library(readxl)
 management]{.red}
 :::
 :::{.column width="50%"}
-![](pic/Tobacco-v2.jpg){.center width="100%"}
+
+<img src="pic/Tobacco-v2.jpg" width = "100%" class= "center">
+
 :::
 ::::
 
@@ -312,7 +321,7 @@ management]{.red}
 <img src="/pic/framework.png" width = "350">
 
 :::
-:::{.column width="50%}
+:::{.column width="50%"}
 
 - [Technical]{.red} perspective
   - Premium (what should be consider?)
@@ -327,7 +336,7 @@ management]{.red}
 ## Implementation of health insurance feasibility study in Afghanistan
 
 :::: columns
-:::{.column width="50%}
+:::{.column width="50%"}
 
 - First phase (2014-2015)
     - Stakeholder analysis (Qualitative)
@@ -337,7 +346,7 @@ management]{.red}
     - [Benefit package design]{.red} for health insurance
     - [Actuary analysis]{.red} for health insurance
 :::
-:::{.column width="50%}
+:::{.column width="50%"}
 
 <img src= "/pic/hifs1.png">
 
@@ -365,8 +374,8 @@ readxl::read_excel("HF-findings.xlsx", sheet = "Sheet1", range = "A11:H18") %>%
 kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
   kable_classic(full_width = T) %>%
    row_spec(0, bold = T, color = "darkred") %>%
-    column_spec(1, width = "4cm") %>%
-    kable_styling(font_size = 14)
+    column_spec(1, width = "8cm") %>%
+    kable_styling(font_size = 18)
 ```
 
 ---
@@ -374,11 +383,9 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 ## What is happening in Afghanistan now?
 
 - Health system in Afghanistan is on the brik of collapse
-
   - NGOs moved out of the country
-  - Shortage of medicien 
+  - Shortage of medicines and medical supplies 
   - Many staff and medical doctors left
-
 - Donors cannot provide direct support to the government, and have to channel their support through NGOs, which is not sustainable
 
 ---
@@ -388,7 +395,7 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 - Funding reduced significantly, and the future of funding is uncertain
     - Bilateral aid: 20% decline compared to 2023
     - Multilateral shortfalls: Major institutions like WHO and Global Fund facing significant funding gaps. (e.g., WHO has scaled down its global staff by 25%)
-- Overall global instability, which makes it difficult to generate revenue and implement health reform in the country
+- Overall global instability, which makes it difficult to generate revenue and implement health reforms in many countries
     - Russia-Ukraine war
     - Gaza-Israel war
     - US-Iran tension
@@ -396,7 +403,7 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 
 ---
 
-## Future of health system research 
+## Future of global health aid 
 
 :::: columns
 :::{.column width="50%"}
@@ -417,14 +424,14 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 
 ## Key takeaway
 
-- Health system research is underdeveloped but critical to improving health outcomes and achieving UHC
-- Health system research is a multidisciplinary field that draws on a variety of disciplines to understand how health systems function and how they can be improved
-- Health system research is witnessing great changes in the context of global health
+- Health system research is [underdeveloped]{.red} but critical to improving health outcomes and achieving UHC
+- Health system research is a [multidisciplinary]{.red} field that draws on a variety of disciplines to understand how health systems function and how they can be improved
+- Health system research is witnessing substantial [changes]{.red} in the context of global health
 - China has a lot to offer in terms of health system research, and there are many opportunities for collaboration between China and other countries in this field
 
 ---
 
-## Thank you ! 
+## Comments are welcome
 
 <br>
 
