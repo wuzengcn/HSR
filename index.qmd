@@ -2,7 +2,7 @@
 format:
   revealjs:
     theme: styles.scss
-    transition: fade
+    transition: slide
     slide-number: true
     wide: true
     chalkboard: true
@@ -40,9 +40,9 @@ library(readxl)
 
 - What are the key research questions and methods used in health system research?
 
-- Experiences in Afghanistan Health System Research ?
+- Experiences in Afghanistan Health System Research
 
-- key takeaway
+- Key takeaways
 
 ---
 
@@ -65,7 +65,7 @@ library(readxl)
 
 ## Health System Framework
 
-- The World Health Organization (WHO) has developed a framework for understanding health systems, which consists of six building blocks:
+- The [World Health Organization (WHO)]{.red} has developed a framework for understanding health systems, which consists of six building blocks:
 
 ![](pic/HSR-frame.png){.center}
 
@@ -81,7 +81,8 @@ library(readxl)
 
 ---
 
-## Alternative framework from WHO 2000 report
+
+## Alternative framework from WHO 2000 report {visibility="hidden"}
 
 ![](pic/HS-2000.png){.center}
 
@@ -92,12 +93,12 @@ library(readxl)
 :::: columns
 :::{.column width="50%"}
 
-- In 2010, WHO published a report on health system financing, which highlighted the importance of health financing research in improving health outcomes and achieving universal health coverage (UHC)
+- In 2010, WHO published a report on health system financing, which highlighted the importance of [health financing]{.red} research in improving health outcomes and achieving universal health coverage (UHC)
 
-- In 2007, Prof. William Hsiao published a paper ^1^, calling for better understanding health systems to improve the performance of health systems and achieve UHC.
+- In 2007, Prof. William Hsiao published a paper ^1^, calling for better understanding **health systems** to improve the performance of health systems and achieve UHC.
 :::
 :::{.column width="50%"}
-![](pic/Hsiao-2007.png){.center width="80%"}
+![](pic/Hsiao-2007.png){.center width="100%"}
 :::
 ::::
 
@@ -107,49 +108,40 @@ library(readxl)
 
 ## Some key research questions in health system research (examples)
 
-- How can we design and implement effective health financing mechanisms to improve access to care and reduce financial barriers to care?
+- How can we [design]{.red} and [implement]{.red} effective health financing mechanisms to improve access to care and reduce financial barriers to care?
 
-- How can we improve the efficiency and quality of health service delivery?
+- How can we improve the [efficiency]{.red} and [quality]{.red} of health service delivery?
 
-- How can we strengthen health information systems to improve decision-making and accountability?
+- How can we strengthen [health information systems]{.red} to improve decision-making and accountability?
 
-- How can we improve the governance and leadership of health systems to ensure that they are responsive to the needs of the population?
+- How can we improve the [governance]{.red} and [leadership]{.red} of health systems to ensure that they are responsive to the needs of the population?
 
-- How can we improve the health workforce to ensure that there are enough trained health workers to meet the needs of the population?
+- How can we improve the [health workforce]{.red} to ensure that there are enough trained health workers to meet the needs of the population?
 
-- How can we improve the availability and affordability of essential medicines and technologies?
+- How can we improve the [availability]{.red} and [affordability]{.red} of essential medicines and technologies?
 
 ---
 
 ## Methods used in health system research
 
 - Health system research uses a variety of methods, including:
-
     - [Quantitative]{.red} methods, such as surveys, administrative data analysis, and econometric modeling
-
     - [Qualitative]{.red} methods, such as interviews, focus groups, and case studies
-
     - [Mixed methods]{.red}, which combine quantitative and qualitative approaches to provide a more comprehensive understanding of health systems
 
-- The choice of method depends on the research question being addressed and the context in which the research is being conducted
+- The choice of method depends on the [research question]{.red} being addressed and the [context]{.red} in which the research is being conducted
 
 ---
 
 ## Desciplines in health system research
 
 - Health system research is a multidisciplinary field that draws on a variety of disciplines, including:
-
     - [Economics]{.red}, which focuses on the allocation of resources and the efficiency of health systems
-
     - [Sociology]{.red}, which focuses on the social determinants of health and the social dynamics of health systems
-
     - [Political science]{.red}, which focuses on the governance and leadership of health systems
-
     - [Public health]{.red}, which focuses on the population health outcomes of health systems
-
     - [Implementation science]{.red}, which focuses on the translation of research findings into practice
-
-- The interdisciplinary nature of health system research allows for a more comprehensive understanding of health systems and the complex interactions between different components of health systems
+- The [interdisciplinary]{.red} nature of health system research allows for a more comprehensive understanding of health systems and the complex interactions between different components of health systems
 
 ---
 
@@ -183,10 +175,9 @@ library(readxl)
 
     - Life expectancy: [66 years]{.red}
 
-    - Economy has been stagnant before Taliban took over the country in 2021, droped during COVID-19 pandemic
+    - Economy has been [stagnant]{.red} before Taliban took over the country in 2021, and [droped]{.red} during COVID-19 pandemic
 
 - Achievements 
-
     - Life expectancy: [56]{.red} (2002) to [66]{.red} years (2023)
     - Infant mortality rate: from [104]{.red} (2002) to [50]{.red} (2023) per 1000 live births
     - Maternal mortality ratio: from [1,263]{.red} (2002) to [521]{.red} (2023) per 100,000 live births
@@ -199,15 +190,10 @@ library(readxl)
 :::{.column width="50%"}
 
 - Not sustainable, and not equitable (NHA 2021)
-
   - [Low]{.red} level of government spending (3.3%)
-
   - [Donor funding]{.red} anticipated to decline (19.5%)
-
   - [Substantial share]{.red} of out of pocket (OOP) spending (77.2%)
-
   - [Low execution]{.red} of existing government budget for health 
-
 :::
 
 :::{.column width="50%"}
@@ -234,9 +220,8 @@ library(readxl)
     - Expenditure management Information systems 
 
 - [Costing and efficiency]{.red} analysis 
-
     - Costing of Essential Package of Health Services (EPHS) and Basic Package of Hospital Services (BPHS)
-    - Costing of the Naitonal Health Strategy 2026-2020
+    - Costing of the Naitional Health Strategy 2026-2020
     - Efficiency analysis of district hositals and health facilities 
 
 :::
@@ -293,7 +278,6 @@ management]{.red}
 ## Health insurance exploration in Afghanistan
 
 - Afghanistan [does not]{.red} have a insurance scheme 
-
 - The Government wanted to conduct a [feasibility]{.red} studies of establish health insurance schemes 
 
 - But 
@@ -340,7 +324,7 @@ management]{.red}
 - Second Phase (2018-2020)
     - [Willingness and ability]{.red} to pay for health insurance
     - [Benefit package design]{.red} for health insurance
-    - [Actuary analysis]{.red} for health insurance
+    - [Actuarial analysis]{.red} for health insurance
 :::
 :::{.column width="50%"}
 
@@ -362,14 +346,13 @@ management]{.red}
 ## Methods
 
 :::: columns
-:::{.column width="50%}
-
+:::{.column width="50%"}
 - [Key informant interviews]{.red} and [focus group discussions]{.red}
   - Framework
   - Stakeholders 
-    - High-level government officials from ministries and parliamentarians
-    - International donors and organizations (i.e., WHO, the European Commission [EC], USAID, and the World Bank); 
-    - Private sector agencies (i.e., two private insurance companies).
+    - High-level [government officials]{.red} from ministries and parliamentarians
+    - International [donors]{.red} and organizations (i.e., WHO, the European Commission [EC], USAID, and the World Bank); 
+    - [Private sector agencies]{.red} (i.e., two private insurance companies).
 :::
 :::{.column width="50%"}
 <img src="pic/framework.png" width = "100%">
@@ -380,12 +363,12 @@ management]{.red}
 
 ## Key finidings
 
-- The majority of stakeholders were [aware]{.red} of the health financing situation in the country, which includes high OOP spending and reliance on donor funding, as well as the challenges of healthcare delivery
+- The majority of stakeholders were [aware]{.red} of the health financing situation in the country
 - Health financing reform (including the use of health insurance mechanisms) was [needed]{.red} to change the current situation and ensure a more sustainable health financing system for Afghanistan.
 - Leadership and political commitment
-    - A majority of stakeholders [acknowledged]{.red} that strong leadership, multisectoral political commitment, and effective collaboration are essential to begin implementing health insurance in Afghanistan
+    - A majority of stakeholders [acknowledged]{.red} that [strong leadership]{.red}, multisectoral political commitment, and effective collaboration are essential to begin implementing health insurance in Afghanistan
 
-> … political will and political support are very important for establishing health insurance systems in every country. But besides this, for Afghanistan especially, I think it’s more important … because of the constitution, because of the law and the regulations we currently have, especially in terms of having all health services free. So we really need a very strong [political] will and support at different stages and in different entities of the government [to overcome the barriers]
+> "… political will and political support are very important for establishing health insurance systems in every country. But besides this, for Afghanistan especially, I think it’s more important … because of the constitution, because of the law and the regulations we currently have, especially in terms of having all health services free. So we really need a very strong [political] will and support at different stages and in different entities of the government [to overcome the barriers]"
 
 --- 
 
@@ -395,16 +378,16 @@ management]{.red}
     - Stakeholders identified the [legal and regulatory conditions]{.red} for health financing as major [challenges]{.red} that need to be addressed in the short term if a health insurance scheme is to be developed in the future. 
 
 - Quality of health services
-    - Quality of care is an important precondition for introducing health insurance, and health insurance is feasible when potential health insurance beneficiaries can access an acceptable quality of care. 
+    - Quality of care is an important [precondition]{.red} for introducing health insurance
 
 ---
 
 ## Results continue ...
 
 - Population awareness and trust
-    - Many people think that paying money for insurance is [worthless]{.red}. The high illiteracy and poverty rates pose further challenges to educating the population about health insurance
+    - Many people think that paying money for insurance is [worthless]{.red}. The high [illiteracy]{.red} and [poverty rates]{.red} pose further challenges to educating the population about health insurance
 - Fiscal space, [willingness]{.red} and [ability]{.red} to pay
-    - The country’s [large informal economy]{.red} poses a challenge to revenue generation. The informal working sector also does not allow for the effective collection of taxes on small private enterprises.
+    - The country’s [large informal economy]{.red} poses a challenge to revenue generation.
 - Capacity to implement and manage a health insurance system
     - There was [limited]{.red} technical and managerial capacity to operate a health insurance system in Afghanistan
 
@@ -414,7 +397,7 @@ management]{.red}
 
 - Objectives: To understand the [willingness]{.red} of the population to pay for health insurance in Afghanistan
 
-- Methods: A cross-sectional survey of 2,392 individuals in Afghansitan across 8 provinces
+- Methods: A [cross-sectional survey]{.red} of 2,392 individuals in Afghansitan across 8 provinces
 
 - Survey content: The survey included questions about 
     - demographic characteristics, 
@@ -430,7 +413,7 @@ management]{.red}
 
 ## Willingness to pay assessment framework and analysis 
 
-- Willingness to pay for health insurance was assessed using a contingent valuation method
+- Willingness to pay for health insurance was assessed using a [contingent valuation method]{.red}
 
 <img src=
 "https://ars.els-cdn.com/content/image/1-s2.0-S2590229622000119-gr1_lrg.jpg">
@@ -439,11 +422,11 @@ management]{.red}
 
 ## Analysis approach 
 
-- Logistic regression for willingness to join health insurance 
+- [Logistic regression]{.red} for willingness to join health insurance 
 
 <img src="/pic/Logistic.png" width = "300">
 
-- Linear regression to examine the factors associated with willingness to pay for health insurance, and the amount of willingness to pay for health insurance
+- [Linear regression]{.red} to examine the factors associated with willingness to pay for health insurance, and the amount of willingness to pay for health insurance
 
 ---
 
@@ -494,7 +477,7 @@ Mean willingness to pay for health insurance was
     - Different contribution rates (3%, 6%, and 9%)
     - Different roll-out strategies (fast roll-out vs. slow roll-out)
 - Cost estimate 
-    - unit cost for primary care services in different settings (e.g., mobile health teams, health subcenters, basic health centers, and comprehensive health centers) was estimated using the cost and revenue analysis tool, CORE Plus.
+    - Unit cost for primary care services in different settings (e.g., mobile health teams, health subcenters, basic health centers, and comprehensive health centers) was estimated using the cost and revenue analysis tool, CORE Plus. [A micro-costing tool]{.red}
     - Unit cost for secondary and thertiary care services 
       - mixed methods which combined standard costing of reference services and diagnostic related group (DRG) cost weights.
 - Utilization of care at various levels 
@@ -506,21 +489,18 @@ Mean willingness to pay for health insurance was
 
 - Results from willingness to pay study 
 
-- Setup and general operational expenses of the national health insurance authority (NHIA) to manage the Afghanistan health insurance benefit package, and other expenses, such as a reserve fund, administrative expenses, and
-capital expenditure is based on interviews
+- Setup and general operational expenses of the national health insurance authority (NHIA) to manage the Afghanistan health insurance benefit package, and other expenses, such as a reserve fund, administrative expenses, and capital expenditure, are based on [interviews]{.red}
 
 ---
 
 ## Findings 
 
 - All scenarios and options achieved some level of beneficiary contribution to the cost of providing health insurance. 
-- However, cost coverage ratios ranged from 9 percent to 19 percent for
-the most generous benefit package covering all three levels of care. 
-- A package focusing only on primary care and secondary care would not reach a financial break-even point either, with cost coverage ratios ranging from 13 percent through 27 percent. 
+- However, cost coverage ratios ranged from [9 percent]{.red} to [19 percent]{.red} for the most generous benefit package covering all three levels of care. 
+- A package focusing only on primary care and secondary care would not reach a financial break-even point either, with cost coverage ratios ranging from [13 percent]{.red} through [27 percent]{.red}. 
 - A limited package with only tertiary care would have relatively
-better financial viability prospects with a cost coverage ratio of up to 59 percent alongside a copayment of 20 percent and a contribution rate of 6 percent. This package would be even more financially feasible if beneficiaries were restricted to only two adults per household, combined with a 20 percent copayment, resulting in a cost coverage ratio potentially above 100%. 
-- Different roll-out strategies would not significantly change the cost coverage ratio, although the absolute financial gap would be larger in the fast
-roll-out scenarios.
+better financial viability prospects with a cost coverage ratio of up to [59 percent]{.red} alongside a [copayment of 20 percent]{.red} and a contribution rate of [6 percent]{.red}. This package would be even more financially feasible if beneficiaries were restricted to only [two adults per household]{.red}, combined with a [20 percent copayment]{.red}, resulting in a cost coverage ratio potentially above 100%. 
+- Different roll-out strategies would not significantly change the cost coverage ratio, although the absolute financial gap would be larger in the fast roll-out scenarios.
 
 ___
 
@@ -539,10 +519,10 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 
 ## What is happening in Afghanistan now?
 
-- Health system in Afghanistan is on the brik of collapse
+- Health system in Afghanistan is on the brik of [collapse]{.red}
   - NGOs moved out of the country
-  - Shortage of medicines and medical supplies 
-  - Many staff and medical doctors left
+  - [Shortage]{.red} of medicines and medical supplies 
+  - [Many staff and medical doctors]{.red} left
 - Donors cannot provide direct support to the government, and have to channel their support through NGOs, which is not sustainable
 
 ---
@@ -550,8 +530,8 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 ## Key constraints in global health 
 
 - Funding reduced significantly, and the future of funding is uncertain
-    - Bilateral aid: 20% decline compared to 2023
-    - Multilateral shortfalls: Major institutions like WHO and Global Fund facing significant funding gaps. (e.g., WHO has scaled down its global staff by 25%)
+    - Bilateral aid: [20%]{.red} decline compared to 2023
+    - Multilateral shortfalls: Major institutions like WHO and Global Fund facing significant funding gaps. (e.g., WHO has scaled down its global staff by [25%]{.red})
 - Overall global instability, which makes it difficult to generate revenue and implement health reforms in many countries
     - Russia-Ukraine war
     - Gaza-Israel war
@@ -566,7 +546,7 @@ kable(longtable = T, booktabs = T, align = "lrrrrrrr")  %>%
 :::{.column width="50%"}
 - More domestric resources mobilization from LMICs 
 - Bilateral support reset
-    - US signed $20.2 billion bilateral agreement with 27 countries as of March 2026
+    - US signed [$20.2]{.red} billion bilateral agreement with 27 countries as of March 2026
     - US shifted from “aid to trade” to partnerships grounded in mutual economic and security interests
 - Tiered contributions
 - Mixed development and humanitarian donors 
