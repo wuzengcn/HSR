@@ -231,7 +231,7 @@ library(readxl)
 
 - [Tracking]{.red} health expenditure
     - National health accounts (NHA)
-        - Donor survey; Household survey
+        - Donor survey; Household survey; Government budget survey
         - Health facility survey
         - Imputation
     - Public Expenditure Tracing Survey
@@ -357,7 +357,62 @@ management]{.red}
 
 ---
 
-## Actuarial analysis framework 
+## Stakeholder analysis 
+
+- Objectives: Understand the opinions and attitudes of key stakeholders towards health insurance, and identify potential barriers and facilitators to the implementation of health insurance in Afghanistan
+
+- Methods: Key informant interviews and focus group discussions were conducted with stakeholders.
+  - Framework
+  - Stakeholders 
+    - KII stakeholders included high-level government officials from ministries and parliamentarians (i.e., the MoPH, Ministry of Finance [MoF], Ministry of Justice (MoJ), Ministry of Labor and Social Affairs [MoLSA], and Parliament);
+    - International donors and organizations (i.e., WHO, the European Commission [EC], USAID, and the World Bank); 
+    - Private sector agencies (i.e., two private insurance companies).
+  - Content analysis
+
+---
+
+## Key finidings
+
+- The majority of stakeholders were aware of the health financing situation in the country, which includes high OOP spending and reliance on donor funding, as well as the challenges of healthcare delivery
+- health financing reform (including the use of health insurance mechanisms) was needed to change the current situation and ensure a more sustainable health financing system for Afghanistan.
+- Leadership and political commitment
+    - A majority of stakeholders acknowledged that strong leadership, multisectoral political commitment, and effective collaboration are essential to begin implementing health insurance in Afghanistan
+
+> … political will and political support are very important for establishing health insurance systems in every country. But besides this, for Afghanistan especially, I think it’s more important … because of the constitution, because of the law and the regulations we currently have, especially in terms of having all health services free. So we really need a very strong [political] will and support at different stages and in different entities of the government [to overcome the barriers]
+
+--- 
+
+## Results continue 
+
+- Legal and regulatory environment
+    - Stakeholders identified the legal and regulatory conditions for health financing as major challenges that need to be addressed in the short term if a health insurance scheme is to be developed in the future. 
+
+- Quality of health services
+    - Quality of care is an important precondition for introducing health insurance, and health insurance is feasible when potential health insurance beneficiaries can access an acceptable quality of care. 
+
+---
+
+## Results continue
+
+- Population awareness and trust
+    - Many people think that paying money for insurance is worthless. The high illiteracy and poverty rates pose further challenges to educating the population about health insurance
+- Fiscal space and willingness and ability to pay
+    - The country’s large informal economy poses a challenge to revenue generation. The informal working sector also does not allow for the effective collection of taxes on small private enterprises.
+
+- Capacity to implement and manage a health insurance system
+    - There was limited technical and managerial capacity to operate a health insurance system in Afghanistan
+
+---
+
+## Actuarial ananalysis objectives 
+
+- To understand the financial affordability of establishing health insurance schemes in Afghanistan
+
+---
+
+## Methods 
+
+- Framework
 
 <center>
 
@@ -366,6 +421,44 @@ management]{.red}
 </center>
 
 ---
+
+## Methods continued 
+
+- Benefit package design
+    - Three levels of care: primary care, secondary care, and tertiary care
+    - Different copayment rates (0%, 20%, and 50%)
+    - Different contribution rates (3%, 6%, and 9%)
+    - Different roll-out strategies (fast roll-out vs. slow roll-out)
+- Cost estimate 
+    - unit cost for primary care services in different settings (e.g., mobile health teams, health subcenters, basic health centers, and comprehensive health centers) was estimated using the cost and revenue analysis tool, CORE Plus.
+    - Unit cost for secondary and thertiary care services 
+      - mixed methods which combined standard costing of reference services and diagnostic related group (DRG) cost weights.
+- Utilization of care at various levels 
+    - Service utilization figures were obtained from Afghanistan’s HMIS, largely from the 2018 calendar year
+
+---
+
+## Estimation of contributions and health insurance operational costs
+
+- Results from willingness to pay study 
+
+- Setup and general operational expenses of the national health insurance authority (NHIA) to manage the Afghanistan health insurance benefit package, and other expenses, such as a reserve fund, administrative expenses, and
+capital expenditure is based on interviews
+
+---
+
+## Findings 
+
+- All scenarios and options achieved some level of beneficiary contribution to the cost of providing health insurance. 
+- However, cost coverage ratios ranged from 9 percent to 19 percent for
+the most generous benefit package covering all three levels of care. 
+- A package focusing only on primary care and secondary care would not reach a financial break-even point either, with cost coverage ratios ranging from 13 percent through 27 percent. 
+- A limited package with only tertiary care would have relatively
+better financial viability prospects with a cost coverage ratio of up to 59 percent alongside a copayment of 20 percent and a contribution rate of 6 percent. This package would be even more financially feasible if beneficiaries were restricted to only two adults per household, combined with a 20 percent copayment, resulting in a cost coverage ratio potentially above 100%. 
+- Different roll-out strategies would not significantly change the cost coverage ratio, although the absolute financial gap would be larger in the fast
+roll-out scenarios.
+
+___
 
 ## Cost recovery rates from the actuarial analysis
 
