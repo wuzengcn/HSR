@@ -262,7 +262,7 @@ library(readxl)
 :::
 :::{.column width="50%"}
 
-<img style = "border-radius:5%;border: 1px solid black" src="pic/HF-strategy.png" width = "90%" class= "center">
+<img style = "border-radius:5%;border: 1px solid black" src="pic/HF-strategy.png" width = "70%" class= "center">
 
 :::
 ::::
