@@ -38,9 +38,7 @@ library(readxl)
 
 - Why is health system research important?
 
-- What are the key research questions in health system research?
-
-- What are the methods used in health system research?
+- What are the key research questions and methods used in health system research?
 
 - Experiences in Afghanistan Health System Research ?
 
@@ -58,8 +56,6 @@ library(readxl)
 - However, there is [NO]{.red} universally accepted definition of health system research, and it can be difficult to define the scope of the field
 :::
 :::{.column width="50%"}
-
-
 
 ![](pic/WHO-2000.png){.center width="120%"}
 :::
@@ -348,9 +344,9 @@ management]{.red}
 :::
 :::{.column width="50%"}
 
-<img src= "/pic/hifs1.png">
-
 <img src= "/pic/hifs2.png">
+
+<img src= "/pic/hifs1.png">
 
 :::
 ::::
@@ -359,54 +355,122 @@ management]{.red}
 
 ## Stakeholder analysis 
 
-- Objectives: Understand the opinions and attitudes of key stakeholders towards health insurance, and identify potential barriers and facilitators to the implementation of health insurance in Afghanistan
+- Objectives: Understand the [opinions]{.red} and [attitudes]{.red} of key stakeholders towards health insurance, and identify potential [barriers]{.red} and [facilitators]{.red} to the implementation of health insurance in Afghanistan
 
-- Methods: Key informant interviews and focus group discussions were conducted with stakeholders.
+---
+
+## Methods
+
+:::: columns
+:::{.column width="50%}
+
+- [Key informant interviews]{.red} and [focus group discussions]{.red}
   - Framework
   - Stakeholders 
-    - KII stakeholders included high-level government officials from ministries and parliamentarians (i.e., the MoPH, Ministry of Finance [MoF], Ministry of Justice (MoJ), Ministry of Labor and Social Affairs [MoLSA], and Parliament);
+    - High-level government officials from ministries and parliamentarians
     - International donors and organizations (i.e., WHO, the European Commission [EC], USAID, and the World Bank); 
     - Private sector agencies (i.e., two private insurance companies).
-  - Content analysis
+:::
+:::{.column width="50%"}
+<img src="pic/framework.png" width = "100%">
+:::
+::::
 
 ---
 
 ## Key finidings
 
-- The majority of stakeholders were aware of the health financing situation in the country, which includes high OOP spending and reliance on donor funding, as well as the challenges of healthcare delivery
-- health financing reform (including the use of health insurance mechanisms) was needed to change the current situation and ensure a more sustainable health financing system for Afghanistan.
+- The majority of stakeholders were [aware]{.red} of the health financing situation in the country, which includes high OOP spending and reliance on donor funding, as well as the challenges of healthcare delivery
+- Health financing reform (including the use of health insurance mechanisms) was [needed]{.red} to change the current situation and ensure a more sustainable health financing system for Afghanistan.
 - Leadership and political commitment
-    - A majority of stakeholders acknowledged that strong leadership, multisectoral political commitment, and effective collaboration are essential to begin implementing health insurance in Afghanistan
+    - A majority of stakeholders [acknowledged]{.red} that strong leadership, multisectoral political commitment, and effective collaboration are essential to begin implementing health insurance in Afghanistan
 
 > … political will and political support are very important for establishing health insurance systems in every country. But besides this, for Afghanistan especially, I think it’s more important … because of the constitution, because of the law and the regulations we currently have, especially in terms of having all health services free. So we really need a very strong [political] will and support at different stages and in different entities of the government [to overcome the barriers]
 
 --- 
 
-## Results continue 
+## Results continue ...
 
 - Legal and regulatory environment
-    - Stakeholders identified the legal and regulatory conditions for health financing as major challenges that need to be addressed in the short term if a health insurance scheme is to be developed in the future. 
+    - Stakeholders identified the [legal and regulatory conditions]{.red} for health financing as major [challenges]{.red} that need to be addressed in the short term if a health insurance scheme is to be developed in the future. 
 
 - Quality of health services
     - Quality of care is an important precondition for introducing health insurance, and health insurance is feasible when potential health insurance beneficiaries can access an acceptable quality of care. 
 
 ---
 
-## Results continue
+## Results continue ...
 
 - Population awareness and trust
-    - Many people think that paying money for insurance is worthless. The high illiteracy and poverty rates pose further challenges to educating the population about health insurance
-- Fiscal space and willingness and ability to pay
-    - The country’s large informal economy poses a challenge to revenue generation. The informal working sector also does not allow for the effective collection of taxes on small private enterprises.
-
+    - Many people think that paying money for insurance is [worthless]{.red}. The high illiteracy and poverty rates pose further challenges to educating the population about health insurance
+- Fiscal space, [willingness]{.red} and [ability]{.red} to pay
+    - The country’s [large informal economy]{.red} poses a challenge to revenue generation. The informal working sector also does not allow for the effective collection of taxes on small private enterprises.
 - Capacity to implement and manage a health insurance system
-    - There was limited technical and managerial capacity to operate a health insurance system in Afghanistan
+    - There was [limited]{.red} technical and managerial capacity to operate a health insurance system in Afghanistan
+
+---
+
+## Willingness and ability to pay study
+
+- Objectives: To understand the [willingness]{.red} of the population to pay for health insurance in Afghanistan
+
+- Methods: A cross-sectional survey of 2,392 individuals in Afghansitan across 8 provinces
+
+- Survey content: The survey included questions about 
+    - demographic characteristics, 
+    - health status, healthcare utilization, and 
+    - willingness to pay for health insurance
+- Insurance package 
+    - Health insurance option 1 (I1): Primary and secondary facilities, 
+    - Health insurance option 2 (I2): I1 + some tertiary healthcare facilities. 
+    - Medicine option 1 (M1): all prescription medications
+    - Medicine option 2 (M2): essential medicines.
+
+---
+
+## Willingness to pay assessment framework and analysis 
+
+- Willingness to pay for health insurance was assessed using a contingent valuation method
+
+<img src=
+"https://ars.els-cdn.com/content/image/1-s2.0-S2590229622000119-gr1_lrg.jpg">
+
+---
+
+## Analysis approach 
+
+- Logistic regression for willingness to join health insurance 
+
+<img src="/pic/Logistic.png" width = "300">
+
+- Linear regression to examine the factors associated with willingness to pay for health insurance, and the amount of willingness to pay for health insurance
+
+---
+
+## Findings 
+
+### Willingness to join health insurance 
+
+- 92.4 % and 85.7 % would join the I1 and I2 packages, respectively.
+
+<img src = "/pic/res1.png" width = "100%">
+
+---
+
+## Findings continued (willingness to pay) ... 
+
+Mean willingness to pay for health insurance was 
+
+- \$ 19 for I2 vs \$ 15 for I1
+- \$10 for M1 vs \$ 5 for M2
+
+<img src = "/pic/res2.png" width = "100%">
 
 ---
 
 ## Actuarial ananalysis objectives 
 
-- To understand the financial affordability of establishing health insurance schemes in Afghanistan
+- To understand the financial [affordability]{.red} of establishing health insurance schemes in Afghanistan.
 
 ---
 
