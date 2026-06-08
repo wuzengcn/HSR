@@ -361,7 +361,7 @@ management]{.red}
 
 ---
 
-## Key finidings
+## Key findings
 
 - The majority of stakeholders were [aware]{.red} of the health financing situation in the country
 - Health financing reform (including the use of health insurance mechanisms) was [needed]{.red} to change the current situation and ensure a more sustainable health financing system for Afghanistan.
@@ -426,7 +426,7 @@ management]{.red}
 
 <img src="/pic/Logistic.png" width = "300">
 
-- [Linear regression]{.red} to examine the factors associated with willingness to pay for health insurance, and the amount of willingness to pay for health insurance
+- [Log Linear regression]{.red} to examine the factors associated with willingness to pay for health insurance, and the amount of willingness to pay for health insurance
 
 ---
 
@@ -444,8 +444,8 @@ management]{.red}
 
 Mean willingness to pay for health insurance was 
 
-- \$ 19 for I2 vs \$ 15 for I1
-- \$10 for M1 vs \$ 5 for M2
+- \$21.3 for I1; \$26.0 for I2 
+- \$13.4 for M1; \$7.4 for M2
 
 <img src = "/pic/res2.png" width = "100%">
 
@@ -473,8 +473,8 @@ Mean willingness to pay for health insurance was
 
 - Benefit package design
     - Three levels of care: primary care, secondary care, and tertiary care
-    - Different copayment rates (0%, 20%, and 50%)
-    - Different contribution rates (3%, 6%, and 9%)
+    - Different copayment rates (0%, 10%, and 20%)
+    - Different contribution rates (3% and 6%)
     - Different roll-out strategies (fast roll-out vs. slow roll-out)
 - Cost estimate 
     - Unit cost for primary care services in different settings (e.g., mobile health teams, health subcenters, basic health centers, and comprehensive health centers) was estimated using the cost and revenue analysis tool, CORE Plus. [A micro-costing tool]{.red}
@@ -493,7 +493,7 @@ Mean willingness to pay for health insurance was
 
 ---
 
-## Findings 
+## Findings {visibility="hidden"}
 
 - All scenarios and options achieved some level of beneficiary contribution to the cost of providing health insurance. 
 - However, cost coverage ratios ranged from [9 percent]{.red} to [19 percent]{.red} for the most generous benefit package covering all three levels of care. 
@@ -504,7 +504,7 @@ better financial viability prospects with a cost coverage ratio of up to [59 per
 
 ___
 
-## Cost recovery rates from the actuarial analysis
+## Findings: Cost recovery rates from the actuarial analysis
 
 ```{r echo=F}
 readxl::read_excel("HF-findings.xlsx", sheet = "Sheet1", range = "A11:H18") %>%
